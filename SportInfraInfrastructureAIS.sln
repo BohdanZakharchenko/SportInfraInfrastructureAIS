@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SportInfraInfrastructureAIS", "SportInfraInfrastructureAIS.vcxproj", "{CB14A79F-E7E7-40F3-A7BF-BC9DE6DF8680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB14A79F-E7E7-40F3-A7BF-BC9DE6DF8680}.Debug|x64.ActiveCfg = Debug|x64
+		{CB14A79F-E7E7-40F3-A7BF-BC9DE6DF8680}.Debug|x64.Build.0 = Debug|x64
+		{CB14A79F-E7E7-40F3-A7BF-BC9DE6DF8680}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB14A79F-E7E7-40F3-A7BF-BC9DE6DF8680}.Debug|x86.Build.0 = Debug|Win32
+		{CB14A79F-E7E7-40F3-A7BF-BC9DE6DF8680}.Release|x64.ActiveCfg = Release|x64
+		{CB14A79F-E7E7-40F3-A7BF-BC9DE6DF8680}.Release|x64.Build.0 = Release|x64
+		{CB14A79F-E7E7-40F3-A7BF-BC9DE6DF8680}.Release|x86.ActiveCfg = Release|Win32
+		{CB14A79F-E7E7-40F3-A7BF-BC9DE6DF8680}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06484AD5-7D39-49DC-8622-B1036121682F}
+	EndGlobalSection
+EndGlobal
